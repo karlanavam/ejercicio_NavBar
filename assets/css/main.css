@@ -1,0 +1,33 @@
+*{
+margin: 0px;
+}
+
+body {
+  background-color: #FFFC8D;
+}
+
+ul {
+  background: #95FFCF;
+}
+
+li {
+  font-size: 1.5em;
+  font-family: 'Indie Flower', cursive;
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+  color: #F82690;
+}
+
+a {
+  font-family: 'Open Sans Condensed', sans-serif;
+  padding-left: 30px;
+  text-decoration: none;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+}
+
+a:hover {
+    background-color: #C4FFE0;
+}
